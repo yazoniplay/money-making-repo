@@ -1,0 +1,3 @@
+"""Money Maker package initialization."""
+
+# This file intentionally left blank to make `src` a Python package.
